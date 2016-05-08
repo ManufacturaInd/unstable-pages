@@ -11,13 +11,12 @@
         print($line . "\n");
       }
     }
-    echo '<p>Tá atualizado! <a href="index.php">Ver o resultado.</a>';
+    echo '<p>Tá atualizado! <a href="index.html">Ver o resultado.</a>';
 
     // Get the latest version of the repository
     print("<pre>");
     execPrint("git pull");
     print("</pre>");
     ?>
-    <a href="pages.php">Vamos começar, então</a>
   </body>
 </html>
