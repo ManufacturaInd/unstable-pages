@@ -16,7 +16,11 @@ E para ver uma página específica sem ter de fazer refresh continuamente, acres
 
 ## Formato do texto
 
-Os textos estão expressos na norma [Markdown](https://en.wikipedia.org/wiki/Markdown), que tem algumas particularidades -- a mais relevante mencionar é que é necessário usar uma quebra de linha dupla para separar os parágrafos ou versos no resultado final, assim:
+Os textos estão expressos na norma [Markdown](https://en.wikipedia.org/wiki/Markdown), que tem algumas particularidades.
+
+### Quebras de linha
+
+É necessário usar uma quebra de linha dupla para separar os parágrafos no resultado final, assim:
 
     Neste exemplo, estas linhas
     vão aparecer como
@@ -32,14 +36,14 @@ E com uma quebra de linha dupla:
     será
     uma outra.
 
-Para fazer uma quebra de linha simples sem separação de parágrafos, usamos dois espaços no fim da linha:
+Para fazer uma quebra de linha simples sem separação de parágrafos (como em versos), usamos dois espaços no fim da linha:
 
     Esta linha termina em dois espaços  
     por isso esta será outra.
     
     E esta estará num novo parágrafo.
     
-## Títulos
+### Títulos
 
 O texto pode ou não começar com um título:
 
