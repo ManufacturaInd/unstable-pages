@@ -58,4 +58,4 @@ O número de `#` faz cabeçalhos cada vez mais discretos:
     ##### Sub-pequeno
     ###### Sub-sub-pequeno
     
-Os exemplos da página da Wikipedia sobre Markdown explicam o resto do que podemos meter nos textos, como links ou imagens.
+Os exemplos da página da Wikipedia sobre Markdown [explicam o resto](https://en.wikipedia.org/wiki/Markdown) do que podemos meter nos textos, como links ou imagens.
