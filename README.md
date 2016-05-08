@@ -1,12 +1,14 @@
 # Páginas instáveis
 
-Esta é uma estrutura simples para experiências de navegação aleatória. O site está alojado em http://koizo.org/paginas-instaveis.
+Esta é uma estrutura simples para experiências de navegação aleatória. O site está alojado em http://koizo.org/paginas-instaveis. O processo é extremamente simples, com um link no final de cada página para nos levar a outra à sorte. A edição dos textos pode ser feita usando apenas o interface do GitLab, e basta aceder a um link para atualizar o site.
 
 ## Como editar
 
-Para **criar um novo texto**, é seguir para o diretório `textos/` e selecionar _New file_. 
+Podemos usar o Github para criar e editar os nossos textos, e fazê-los aparecer rapidamente no nosso site.
 
-Para **editar um texto existente**, é preciso abrir o ficheiro no Github e fazer _Edit_ (ícone do lápis).
+Para **criar um novo texto**, é seguir para o diretório `textos/` (ali acima) e selecionar _New file_. 
+
+Para **editar um texto existente**, é selecionar o ficheiro dentro de `textos/` e fazer _Edit_ (ícone do lápis).
 
 ## Ver o resultado
 
