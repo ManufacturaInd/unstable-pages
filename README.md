@@ -16,7 +16,7 @@ E para ver uma página específica sem ter de fazer refresh continuamente, acres
 
 ## Formato do texto
 
-Os textos estão expressos na norma [Markdown](https://en.wikipedia.org/wiki/Markdown), que tem algumas particularidades.
+Os textos estão expressos na norma [Markdown](https://en.wikipedia.org/wiki/Markdown), uma forma simples de escrever texto para obter HTML agradável. Este mesmo documento está escrito em Markdown ([ver aqui](https://github.com/ManufacturaInd/unstable-pages/raw/master/README.md)). Assim não precisamos de nos preocupar com `<tags>` deselegantes durante o processo de escrita e edição.
 
 ### Quebras de linha
 
